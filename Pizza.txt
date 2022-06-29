@@ -1,2 +1,4 @@
 Decide which business to order from
 Decide which pizza to order
+Pay for the pizza 
+Enjoy pizza
